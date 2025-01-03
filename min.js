@@ -1,5 +1,5 @@
 
->>>>>https://playtvthai.github.io/m3u8/js/jquery-1.11.1.min.js<<<<<
+<!--https://playtvthai.github.io/m3u8/js/jquery-1.11.1.min.js-->
 
 
 
